@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:sunshine_tb_id_painting_totebag_store/AboutUs.dart';
-import 'package:sunshine_tb_id_painting_totebag_store/CartPage.dart';
+
 import 'package:sunshine_tb_id_painting_totebag_store/Constans.dart';
 import 'package:sunshine_tb_id_painting_totebag_store/DetailPage.dart';
 import 'package:sunshine_tb_id_painting_totebag_store/LandingPage.dart';
 import 'package:sunshine_tb_id_painting_totebag_store/LoginPage.dart';
-import 'package:sunshine_tb_id_painting_totebag_store/ProfilePage.dart';
+
 import 'package:sunshine_tb_id_painting_totebag_store/DetailOrderPage.dart';
 import 'package:sunshine_tb_id_painting_totebag_store/dborder/Historyorder.dart';
 
