@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730305084959",
+    "project_id": "sunshine-tb",
+    "storage_bucket": "sunshine-tb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730305084959:android:f4734aeacd1d7976551f2a",
+        "android_client_info": {
+          "package_name": "com.example.sunshine_tb_id_painting_totebag_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730305084959-eqv1pb2dhlr77kb64s0qqn6e0bfhnk23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqaj2qlp9IJ7s_7Y-OiYXDOUDA5Vz0m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730305084959-eqv1pb2dhlr77kb64s0qqn6e0bfhnk23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
